@@ -14,6 +14,7 @@ tests/eval_results.md
 # Internal working files, not part of the repo submission
 PLAN.md
 WRITEUP.md
+internal/
 scripts/smoke_*.py
 scripts/bench_models.py
 scripts/drive_ui.py
