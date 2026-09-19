@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: insightsgen
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false            # entered in the Render dashboard, never stored in the repo
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-120b
+      - key: GROQ_NARRATOR_MODEL
+        value: qwen/qwen3.8-27b
