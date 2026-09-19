@@ -1,0 +1,201 @@
+customer_id,customer_name,segment,region,city,signup_date
+C0001,Ava Brown,Consumer,North,Seattle,2022-05-23
+C0002,Max Garcia,Corporate,North,Seattle,2022-01-31
+C0003,Zoe Okafor,Corporate,North,Seattle,2023-07-29
+C0004,Max Kim,Consumer,South,Miami,2022-10-12
+C0005,Ethan Brown,Consumer,North,Portland,2022-06-09
+C0006,Nora Garcia,Consumer,South,Austin,2023-01-03
+C0007,Finn Novak,Small Business,East,Philadelphia,2023-04-16
+C0008,Ivy Garcia,Corporate,North,Minneapolis,2023-09-26
+C0009,Lily Okafor,Corporate,East,New York,2023-11-09
+C0010,Leo Garcia,Small Business,South,Austin,2023-01-25
+C0011,Maya Nguyen,Small Business,East,New York,2023-01-15
+C0012,Zoe Nguyen,Consumer,East,Philadelphia,2023-10-26
+C0013,Finn Nguyen,Consumer,North,Minneapolis,2022-09-08
+C0014,Maya Kim,Consumer,South,Miami,2023-07-25
+C0015,Nora Dubois,Corporate,South,Austin,2022-08-23
+C0016,Nora Kim,Consumer,North,Seattle,2023-08-04
+C0017,Zoe Nguyen,Consumer,East,Philadelphia,2023-04-15
+C0018,Aria Chen,Consumer,South,Miami,2023-07-06
+C0019,Lily Kim,Small Business,East,Boston,2023-01-06
+C0020,Mia Müller,Consumer,South,Austin,2022-04-23
+C0021,Ethan Singh,Corporate,South,Miami,2022-03-07
+C0022,Ivy Haddad,Small Business,West,Denver,2022-09-15
+C0023,Emma Nguyen,Small Business,North,Portland,2023-10-19
+C0024,Emma Novak,Consumer,East,Boston,2022-01-04
+C0025,Ruby Singh,Consumer,East,New York,2023-10-03
+C0026,Ruby Haddad,Consumer,East,Boston,2022-06-15
+C0027,Finn Silva,Consumer,North,Seattle,2023-01-07
+C0028,Lucas Patel,Consumer,East,Philadelphia,2022-03-22
+C0029,Eli Dubois,Consumer,North,Minneapolis,2022-05-09
+C0030,Eli Müller,Consumer,South,Miami,2023-09-14
+C0031,Zoe Tanaka,Corporate,West,Denver,2022-07-25
+C0032,Ivy Nguyen,Corporate,East,Boston,2023-06-14
+C0033,Emma Okafor,Consumer,West,San Francisco,2022-01-22
+C0034,Lily Okafor,Consumer,South,Miami,2023-10-09
+C0035,Lucas Garcia,Small Business,North,Portland,2022-03-14
+C0036,Aria Nguyen,Consumer,South,Miami,2022-05-16
+C0037,Lucas Singh,Consumer,West,San Francisco,2022-07-14
+C0038,Emma Nguyen,Consumer,North,Portland,2023-02-25
+C0039,Liam Nguyen,Corporate,West,Denver,2022-04-11
+C0040,Ivy Brown,Consumer,North,Seattle,2022-09-12
+C0041,Zoe Müller,Consumer,South,Houston,2022-07-07
+C0042,Maya Okafor,Small Business,East,New York,2023-03-30
+C0043,Liam Nguyen,Small Business,North,Seattle,2022-04-06
+C0044,Ethan Kim,Consumer,South,Austin,2023-02-15
+C0045,Ethan Kim,Consumer,North,Portland,2022-09-29
+C0046,Leo Kim,Corporate,West,Denver,2023-07-24
+C0047,Mia Okafor,Consumer,West,Los Angeles,2023-08-17
+C0048,Nora Patel,Consumer,North,Portland,2023-05-30
+C0049,Liam Müller,Consumer,South,Austin,2022-03-12
+C0050,Lucas Kim,Consumer,North,Minneapolis,2022-09-10
+C0051,Finn Garcia,Consumer,North,Minneapolis,2023-08-02
+C0052,Aria Okafor,Corporate,East,Boston,2022-09-02
+C0053,Ivy Chen,Corporate,East,Boston,2023-04-14
+C0054,Noah Patel,Consumer,East,Philadelphia,2022-04-13
+C0055,Max Okafor,Corporate,North,Seattle,2022-12-24
+C0056,Lucas Silva,Consumer,North,Portland,2023-07-11
+C0057,Finn Singh,Corporate,East,New York,2023-11-15
+C0058,Emma Tanaka,Consumer,East,New York,2022-04-20
+C0059,Aria Novak,Corporate,South,Miami,2022-12-18
+C0060,Aria Müller,Consumer,South,Austin,2022-04-05
+C0061,Aria Patel,Consumer,West,Los Angeles,2023-10-15
+C0062,Ethan Brown,Consumer,East,Philadelphia,2023-03-14
+C0063,Emma Garcia,Small Business,North,Minneapolis,2022-06-02
+C0064,Owen Haddad,Corporate,North,Portland,2022-05-11
+C0065,Leo Silva,Small Business,North,Seattle,2023-01-02
+C0066,Lucas Nguyen,Consumer,South,Miami,2023-02-21
+C0067,Lucas Dubois,Consumer,South,Austin,2023-02-27
+C0068,Ethan Brown,Small Business,North,Portland,2023-11-17
+C0069,Aria Chen,Corporate,South,Austin,2023-01-27
+C0070,Eli Okafor,Consumer,North,Portland,2022-12-25
+C0071,Lucas Okafor,Consumer,East,New York,2023-02-13
+C0072,Aria Dubois,Consumer,East,Boston,2022-12-26
+C0073,Max Silva,Small Business,West,Los Angeles,2022-09-25
+C0074,Lily Novak,Consumer,South,Miami,2023-03-21
+C0075,Nora Kim,Corporate,East,Philadelphia,2022-04-29
+C0076,Lily Okafor,Consumer,West,Denver,2023-03-23
+C0077,Ruby Tanaka,Small Business,North,Minneapolis,2023-11-18
+C0078,Owen Kim,Consumer,South,Miami,2022-12-05
+C0079,Emma Brown,Small Business,East,Philadelphia,2022-11-13
+C0080,Nora Kim,Corporate,West,Denver,2022-05-11
+C0081,Kai Nguyen,Small Business,South,Miami,2022-06-28
+C0082,Ivy Müller,Small Business,East,Boston,2022-10-21
+C0083,Kai Singh,Corporate,South,Miami,2022-11-26
+C0084,Maya Rossi,Corporate,West,Denver,2023-04-30
+C0085,Noah Novak,Corporate,South,Miami,2023-09-27
+C0086,Noah Dubois,Small Business,East,New York,2023-11-20
+C0087,Lucas Singh,Consumer,East,New York,2022-02-17
+C0088,Eli Haddad,Small Business,South,Austin,2023-04-12
+C0089,Lily Okafor,Corporate,West,San Francisco,2023-05-22
+C0090,Lucas Chen,Corporate,West,Los Angeles,2022-04-20
+C0091,Lucas Chen,Small Business,West,Denver,2023-06-15
+C0092,Liam Müller,Consumer,West,Los Angeles,2023-04-13
+C0093,Maya Nguyen,Corporate,South,Miami,2023-09-02
+C0094,Maya Haddad,Small Business,East,Philadelphia,2023-03-13
+C0095,Ethan Brown,Small Business,West,San Francisco,2022-09-23
+C0096,Aria Singh,Corporate,South,Houston,2023-10-04
+C0097,Aria Rossi,Consumer,South,Houston,2022-08-29
+C0098,Nora Silva,Small Business,East,New York,2022-05-22
+C0099,Lucas Kim,Corporate,South,Miami,2022-08-08
+C0100,Kai Kim,Consumer,North,Portland,2023-03-02
+C0101,Zoe Dubois,Consumer,North,Minneapolis,2022-01-21
+C0102,Eli Patel,Small Business,West,San Francisco,2023-02-04
+C0103,Max Brown,Corporate,West,Denver,2022-08-14
+C0104,Lucas Novak,Consumer,West,Los Angeles,2023-02-03
+C0105,Ivy Brown,Consumer,East,Boston,2022-05-11
+C0106,Ivy Haddad,Corporate,North,Seattle,2022-03-27
+C0107,Mia Dubois,Consumer,West,Los Angeles,2022-09-24
+C0108,Nora Okafor,Consumer,West,San Francisco,2023-01-24
+C0109,Kai Novak,Small Business,East,Boston,2022-01-20
+C0110,Owen Okafor,Corporate,North,Minneapolis,2022-02-11
+C0111,Lucas Okafor,Small Business,North,Minneapolis,2022-06-06
+C0112,Mia Rossi,Corporate,South,Miami,2022-08-12
+C0113,Aria Singh,Consumer,West,Denver,2023-09-14
+C0114,Ethan Novak,Consumer,North,Seattle,2022-11-16
+C0115,Ivy Brown,Consumer,West,Denver,2023-10-05
+C0116,Emma Brown,Corporate,South,Miami,2023-09-07
+C0117,Lily Singh,Consumer,North,Minneapolis,2023-03-15
+C0118,Noah Müller,Corporate,East,New York,2023-03-07
+C0119,Emma Kim,Small Business,West,Denver,2023-04-16
+C0120,Kai Chen,Corporate,South,Miami,2022-10-04
+C0121,Maya Kim,Small Business,West,Denver,2022-10-02
+C0122,Lucas Dubois,Small Business,East,Boston,2023-04-07
+C0123,Maya Haddad,Corporate,South,Houston,2022-12-11
+C0124,Eli Dubois,Consumer,North,Portland,2022-08-06
+C0125,Aria Silva,Consumer,East,Philadelphia,2022-10-10
+C0126,Ruby Okafor,Consumer,North,Minneapolis,2023-02-21
+C0127,Max Singh,Consumer,West,San Francisco,2023-10-24
+C0128,Maya Singh,Consumer,West,San Francisco,2022-08-15
+C0129,Lucas Novak,Corporate,West,San Francisco,2023-04-30
+C0130,Kai Brown,Corporate,East,Boston,2023-04-10
+C0131,Leo Novak,Consumer,East,Philadelphia,2022-07-17
+C0132,Emma Brown,Corporate,East,Philadelphia,2022-07-09
+C0133,Zoe Brown,Consumer,South,Miami,2023-08-27
+C0134,Emma Dubois,Consumer,East,New York,2023-01-05
+C0135,Leo Patel,Corporate,South,Austin,2022-10-08
+C0136,Liam Müller,Consumer,North,Seattle,2023-10-16
+C0137,Emma Dubois,Consumer,West,San Francisco,2023-04-26
+C0138,Maya Silva,Consumer,West,Los Angeles,2022-09-16
+C0139,Emma Dubois,Consumer,West,San Francisco,2022-03-17
+C0140,Mia Chen,Small Business,North,Portland,2022-03-29
+C0141,Emma Müller,Corporate,South,Miami,2023-09-03
+C0142,Ruby Kim,Consumer,South,Houston,2022-11-01
+C0143,Leo Haddad,Corporate,West,Denver,2022-04-12
+C0144,Zoe Novak,Corporate,South,Austin,2022-09-03
+C0145,Max Garcia,Consumer,South,Houston,2023-04-07
+C0146,Leo Patel,Consumer,West,Denver,2022-10-17
+C0147,Noah Nguyen,Consumer,West,San Francisco,2023-10-03
+C0148,Kai Garcia,Corporate,South,Miami,2022-06-02
+C0149,Mia Garcia,Consumer,East,Boston,2023-09-02
+C0150,Maya Garcia,Consumer,East,Boston,2023-02-17
+C0151,Ruby Müller,Consumer,East,New York,2023-09-05
+C0152,Kai Brown,Consumer,North,Portland,2022-01-27
+C0153,Lucas Nguyen,Small Business,North,Minneapolis,2023-08-25
+C0154,Aria Haddad,Consumer,North,Seattle,2023-04-27
+C0155,Aria Chen,Small Business,West,San Francisco,2023-10-13
+C0156,Noah Rossi,Consumer,West,San Francisco,2022-11-25
+C0157,Ethan Silva,Consumer,North,Portland,2022-10-23
+C0158,Max Patel,Consumer,West,San Francisco,2022-09-16
+C0159,Emma Singh,Consumer,East,Philadelphia,2022-01-02
+C0160,Kai Patel,Consumer,West,San Francisco,2023-09-30
+C0161,Maya Singh,Consumer,West,San Francisco,2023-07-17
+C0162,Leo Rossi,Small Business,South,Houston,2022-05-05
+C0163,Finn Singh,Consumer,North,Seattle,2022-11-15
+C0164,Max Kim,Consumer,North,Seattle,2023-04-18
+C0165,Mia Rossi,Small Business,North,Portland,2023-06-06
+C0166,Kai Dubois,Consumer,East,Boston,2022-09-07
+C0167,Max Chen,Consumer,West,Denver,2023-06-05
+C0168,Noah Novak,Corporate,South,Houston,2022-12-15
+C0169,Ava Novak,Corporate,East,Philadelphia,2023-08-17
+C0170,Mia Rossi,Corporate,West,San Francisco,2022-12-07
+C0171,Maya Tanaka,Consumer,West,Los Angeles,2022-09-02
+C0172,Lucas Dubois,Corporate,West,Los Angeles,2022-11-22
+C0173,Ivy Kim,Small Business,West,Denver,2022-06-05
+C0174,Liam Chen,Corporate,West,Denver,2022-12-06
+C0175,Maya Garcia,Corporate,North,Portland,2022-01-16
+C0176,Kai Dubois,Corporate,South,Austin,2022-03-18
+C0177,Aria Silva,Corporate,West,San Francisco,2023-10-28
+C0178,Nora Dubois,Corporate,North,Minneapolis,2023-01-25
+C0179,Eli Dubois,Corporate,East,Philadelphia,2022-03-12
+C0180,Leo Okafor,Corporate,South,Houston,2022-04-11
+C0181,Maya Chen,Corporate,North,Seattle,2022-02-17
+C0182,Liam Novak,Consumer,East,Boston,2022-05-30
+C0183,Ruby Kim,Corporate,South,Austin,2022-06-24
+C0184,Noah Haddad,Small Business,South,Miami,2023-12-01
+C0185,Eli Tanaka,Corporate,South,Austin,2023-04-18
+C0186,Maya Novak,Corporate,East,Boston,2022-10-22
+C0187,Noah Rossi,Small Business,South,Miami,2022-11-03
+C0188,Aria Rossi,Small Business,West,Los Angeles,2023-01-29
+C0189,Emma Okafor,Consumer,West,San Francisco,2023-08-12
+C0190,Leo Patel,Small Business,East,Philadelphia,2023-02-10
+C0191,Ava Haddad,Small Business,East,Philadelphia,2022-02-20
+C0192,Leo Singh,Corporate,West,Denver,2022-12-27
+C0193,Zoe Haddad,Consumer,South,Miami,2023-11-07
+C0194,Emma Tanaka,Corporate,South,Austin,2022-11-13
+C0195,Liam Haddad,Consumer,West,Los Angeles,2022-04-03
+C0196,Nora Brown,Consumer,East,New York,2022-05-16
+C0197,Ruby Müller,Small Business,East,New York,2022-09-21
+C0198,Leo Brown,Small Business,West,Los Angeles,2023-04-25
+C0199,Mia Singh,Small Business,North,Minneapolis,2023-11-22
+C0200,Max Silva,Consumer,West,San Francisco,2022-01-15

@@ -1,0 +1,17 @@
+[
+  {"id": "total_revenue",        "q": "What is the total revenue?",                                        "expect": "total_revenue"},
+  {"id": "order_count",          "q": "How many orders are there in total?",                               "expect": "order_count"},
+  {"id": "unique_customers",     "q": "How many distinct customers have placed an order?",                 "expect": "unique_customers"},
+  {"id": "avg_order_value",      "q": "What is the average revenue per order?",                            "expect": "avg_order_value"},
+  {"id": "returned_orders",      "q": "How many orders have status Returned?",                             "expect": "returned_orders"},
+  {"id": "revenue_2024",         "q": "What was the total revenue in 2024?",                               "expect": "revenue_2024"},
+  {"id": "top_segment",          "q": "Which customer segment generated the most revenue?",                "expect": "top_segment"},
+  {"id": "revenue_by_region",    "q": "Show total revenue by customer region",                             "expect": "revenue_by_region"},
+  {"id": "revenue_by_category",  "q": "Total revenue for each product category",                           "expect": "revenue_by_category"},
+  {"id": "top_product",          "q": "What is the single best-selling product by revenue?",               "expect": "top_product"},
+  {"id": "monthly_2024",         "q": "Monthly revenue for 2024",                                          "expect": "monthly_2024"},
+  {"id": "north_target_2024",    "q": "What is the total target revenue for the North region in 2024?",    "expect": "north_target_2024"},
+  {"id": "most_reps",            "q": "Which region has the most sales reps?",                             "expect": "most_reps"},
+  {"id": "avg_discount_by_cat",  "q": "Average discount by product category",                              "expect": "avg_discount_by_cat"},
+  {"id": "shipping_total",       "q": "What is the total shipping cost across all orders?",                "expect": "shipping_total"}
+]

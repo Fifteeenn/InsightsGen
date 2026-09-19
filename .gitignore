@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+.pytest_cache/
+.claude/
+.preview/
+*.log
+node_modules/
+frontend/dist/
+tests/eval_results.md
+
+# Internal working files, not part of the repo submission
+PLAN.md
+WRITEUP.md
+scripts/smoke_*.py
+scripts/bench_models.py
+scripts/drive_ui.py
